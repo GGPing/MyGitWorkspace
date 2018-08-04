@@ -12,6 +12,8 @@ Git had a mutable index called stage.
 Fourth Step
 Git tracks changes.
 
+Fifth Step
+Git tracks changes of files.
 
 
 
